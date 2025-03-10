@@ -1,0 +1,13 @@
+Pet Adoption Hub
+
+Pet Adoption Hub is a service where users can browse and manage profiles of adorable pets looking for a new home. Users can view details of each pet, such as name, age, species, breed, personality traits, images, adoption status, and date of arrival. The service allows filtering pets by species or breed, and sorting them by age to find the perfect match. Once a pet is adopted, the adoption sta- tus can be updated with the adopter's name and adoption date. If a pet is no longer available for adoption, users can delete its profile.
+
+Requirements:
+
+1. Add new pet profiles: Users can add new pet profiles with relevant metadata, including name, age, species, images, breed, personality traits, adoption status, and date of arrival.
+
+2. View a list of pets: Users can view all available pets and filter them by species and breed. 
+
+3. Update a pet's adoption status: Users can mark a pet as adopted, and add the adopter's name and adoption date to the pet's profile.
+
+4. Delete pet profiles: Users can delete pet profiles if they're no longer available for adoption,
